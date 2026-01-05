@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/logo.png" alt="CAiD Logo" width="200"/>
+</div>
+
 # CAiD: AI-Driven CAD Design from Concept to Model
 
 ![Coming Soon](https://img.shields.io/badge/Status-Coming%20Soon-yellow)
